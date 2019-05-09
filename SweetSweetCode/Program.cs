@@ -10,6 +10,8 @@ namespace SweetSweetCode
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Golly it's sad that it's raining");
+            string hello = "Hi there!";
         }
     }
 }
