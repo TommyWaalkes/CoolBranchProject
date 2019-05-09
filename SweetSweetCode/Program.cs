@@ -12,6 +12,7 @@ namespace SweetSweetCode
         {
             Console.WriteLine("Hello World");
             Console.WriteLine("I like C#!");
+            Console.WriteLine("Will there be a conflict here?");
         }
     }
 }
